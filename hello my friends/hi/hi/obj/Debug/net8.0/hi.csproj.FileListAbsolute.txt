@@ -1,0 +1,14 @@
+F:\hello my friends\hi\hi\bin\Debug\net8.0\hi.exe
+F:\hello my friends\hi\hi\bin\Debug\net8.0\hi.deps.json
+F:\hello my friends\hi\hi\bin\Debug\net8.0\hi.runtimeconfig.json
+F:\hello my friends\hi\hi\bin\Debug\net8.0\hi.dll
+F:\hello my friends\hi\hi\bin\Debug\net8.0\hi.pdb
+F:\hello my friends\hi\hi\obj\Debug\net8.0\hi.GeneratedMSBuildEditorConfig.editorconfig
+F:\hello my friends\hi\hi\obj\Debug\net8.0\hi.AssemblyInfoInputs.cache
+F:\hello my friends\hi\hi\obj\Debug\net8.0\hi.AssemblyInfo.cs
+F:\hello my friends\hi\hi\obj\Debug\net8.0\hi.csproj.CoreCompileInputs.cache
+F:\hello my friends\hi\hi\obj\Debug\net8.0\hi.dll
+F:\hello my friends\hi\hi\obj\Debug\net8.0\refint\hi.dll
+F:\hello my friends\hi\hi\obj\Debug\net8.0\hi.pdb
+F:\hello my friends\hi\hi\obj\Debug\net8.0\hi.genruntimeconfig.cache
+F:\hello my friends\hi\hi\obj\Debug\net8.0\ref\hi.dll
